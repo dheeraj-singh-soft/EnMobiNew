@@ -1,0 +1,10 @@
+@media(max-width: 1280px){
+	.form-main {
+    	width: 50%;
+	}
+}
+@media(max-width: 767px){
+	.form-main {
+    	width: 90%;
+	}
+}
